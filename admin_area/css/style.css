@@ -1,0 +1,80 @@
+
+}h1{
+	color: red;
+}
+body{
+	margin-top: 100px;
+
+}
+@media (min-width: 768px){
+	body{
+		margin-top: 50px;
+
+	}
+}
+#wrapper{
+	padding-left: 0;
+
+} 
+
+
+
+
+  #wrapper #page-wrapper{
+	width: 100%;
+	padding: 10px;
+	background-color: #f9f9f9;
+
+
+}
+@media (min-width:768px){
+
+#wrapper{
+	padding-left: 0;
+
+} 
+
+#wrapper #page-wrapper{
+	
+	padding: 10px;
+	
+
+
+}
+
+} 
+/*/// //////////top navigationm////////////////////*/
+#seperate #row ul {
+	list-style: none;
+	
+}
+
+
+
+@media (min-width: 768px){
+	#seperate{
+		position: fixed;
+		top: 51px;
+		width: 255px;
+		border-radius: 0;
+		overflow-y: auto;
+		background-color: #222;
+		bottom: 0;
+		overflow-x:hidden;
+		padding-bottom: 40px; 
+	}
+	
+#row{
+	margin-top:20px;
+}
+
+
+#seperate .side-nav>li{
+	
+
+
+
+
+
+
+
