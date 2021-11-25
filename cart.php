@@ -48,7 +48,7 @@ include'functions/function.php';
 
 			<div class="col-md-6 ">
 				<ul class="menu">
-					<li><a href="customer_registration.php">Register</a></li>
+					<li><a href="customer_registration.php">Registered </a></li>
 					<li>
 						
 					 <?php
